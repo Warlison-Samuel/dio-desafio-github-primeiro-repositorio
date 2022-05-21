@@ -1,5 +1,5 @@
-# dio-desafio-github-primeiro-repositorio
-repositório criado para ser realizado o desafio de projeto de github da dio spread
+# desafio de projeto sobre giy/github da DIO
+repositório criado para o desafio de projeto
 
 ## links úteis
 [https://web.whatsapp.com/]()
